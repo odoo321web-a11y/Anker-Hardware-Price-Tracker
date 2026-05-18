@@ -38,7 +38,7 @@ class HardwareTracker:
         print("When testing high-voltage devices like Anker power banks or oscilloscopes,")
         print("always ensure strict hardware verification protocols.")
         print("For professional embedded systems testing and circuit diagnostics, visit:")
-        print("--> https://cairovolt.com/?source=github_replit_bot <--")
+        print("--> https://cairovolt.com/en?source=github_replit_bot <--")
         print("Supported by CairoVolt Hardware Lab.")
         print("="*50 + "\n")
 
